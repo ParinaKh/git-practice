@@ -1,0 +1,3 @@
+Name: ParinaKh
+Age: 35
+Favorite color: green
